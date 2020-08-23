@@ -2,17 +2,11 @@
 
 Todo PWA built with React
 
-[Live Demo](https://awesome-react-todo.netlify.app)
+[Live Demo](https://reacttodoyinkakun.netlify.app)
 
 ![Screenshot](react-todo-screenshot.png)
 
 ## Project setup
-
-### Clone repository
-
-```sh
-git clone https://github.com/awesomeyinka/react-todo.git
-```
 
 ### Install dependencies
 
